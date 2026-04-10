@@ -1,2 +1,2 @@
 # ACGN_Grid_web
-ACG grid,by bangumi
+ACG grid,powered by bangumi
